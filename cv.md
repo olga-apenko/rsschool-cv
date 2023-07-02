@@ -25,7 +25,7 @@ Responsible and eager to new challenges front-end developer looking for a full-t
   }
 };
 ```
-**Code example** https://github.com/olga-apenko/rsschool-cv/
+**CodeProject example** https://github.com/olga-apenko/rsschool-cv/
 
 
 
