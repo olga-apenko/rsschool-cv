@@ -1,1 +1,1 @@
-# rsschool-cv
+# rsschool-cv https://github.com/olga-apenko/rsschool-cv/
