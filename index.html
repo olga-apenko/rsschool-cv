@@ -26,15 +26,9 @@
             </nav>
     </header>
 
-    <main class="main">      
-
-            <section class="section" id="about">
-                <img src="assets/img/a297d78.png" width="150" alt="photo">
-                <h1 class="section-title">Olga Apenko</h1>
-                <h3 class="section-subtitle">Junior Fronted Developer</h3>
-                <h2 class="section-title">Summary</h2>
-                <p>Responsible and eager to new challenges front-end developer looking for a full-time position in a friendly company.</p>
-            </section>
+    <main class="main">    
+        <div class="left-side">
+            <img src="assets/img/a297d78.png" width="150" alt="photo">
 
             <section class="section" id="skills">
                 <h2 class="section-title">Skills and Proficiency</h2>
@@ -58,20 +52,29 @@
                     <li><a href=" ">olga.apenko</a></li>
                 </ul>
             </section>
+        </div>  
 
+        <div class="right-side">
+            <section class="section" id="about">           
+                <h1 class="section-title">Olga Apenko</h1>
+                <h3 class="section-subtitle">Junior Fronted Developer</h3>
+                <h2 class="section-title">Summary</h2>
+                <p>Responsible and eager to new challenges front-end developer looking for a full-time position in a friendly company.</p>
+            </section>            
+  
             <section class="section" id="courses">
                 <h2 class="section-title">Courses</h2>
-                <dl>
-                    <dt>Front-end. Full course for beginners.</dt>
-                    <dd>Prometheus [&] Ciklum</dd>
+                <ul>
+                    <li>Front-end. Full course for beginners. Prometheus [&] Ciklum </li>
                     <dt>Front-end course for switchers.</dt>
                     <dd>EPAM University</dd>
-                </dl>
+                </ul>
             </section>
             
             <section class="section" id="code">
                 <h2 class="section-title">Code example</h2>
                 <pre>
+                    <code>
                     function evenOrOdd(number) {
                         if(number % 2 === 0) {
                           return "Even"
@@ -79,6 +82,7 @@
                           return "Odd"
                         }
                       };
+                    </code>
                 </pre>
             </section>
 
@@ -90,6 +94,8 @@
                    </li> 
                  </ul>
             </section>
+            
+        </div>
 
     </main>
 
