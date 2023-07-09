@@ -39,3 +39,26 @@ body {
   .nav-link:hover {
     text-decoration: underline;
   }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 12px;
+}
+
+.my-github {
+  display: flex;
+  align-items: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-link:hover {
+  color:blue
+}
+
