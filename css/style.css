@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0 auto;
   }
 
@@ -33,14 +33,8 @@ body {
   .nav-link {
     padding: 0 20px;
     line-height: 50px;
-    text-decoration: none;
-    color: black;
     font-size: 16px;
     transition: 0.3s;
-  }
-
-  .nav-link:hover {
-    text-decoration: underline;
   }
 
   .main {
@@ -49,12 +43,12 @@ body {
 
   .left-side {
     width: 30%;
-    padding: 0 10px;
+    padding: 0 5px;
   }
 
   .right-side {
     width: 70%;
-    padding: 0 10px;
+    padding: 0 5px;
 
   }
 
@@ -66,18 +60,80 @@ body {
 
   h2 {
     font-size: 30px;
+    width: 60%;
   
   }
 
   h3 {
+    color:rgb(125, 126, 128);
     font-size: 20px;
+    font-weight: 400;
     margin: 5px;
   }
 
+  section {
+    padding: 15px 50px;
+    margin-bottom: 10px;
+  }
 
+  a {
+    color: black;
+    text-decoration: none;
+  }
 
+  a:hover {
+    color:blue
+  }
 
+  .photo {
+    background-image: url("../assets/img/a297d78.png");
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 30px;
+    height: 300px;
+  
+  }
 
+  .about {
+    height: 300px;
+  }
+
+  .skills {
+    background-color: #dae6f3;
+    border-radius: 30px 0 0 0;
+  }
+
+  .contacts {
+    background-color: #dFDDF4;
+    height: 362px;
+    border-radius: 0 0 0 30px;
+  }
+
+  .phone::before {
+    content: "Phone: ";
+  }
+  .email::before {
+    content: "Email:  ";
+  }
+  .discord::before {
+    content: "Discord:  ";
+  }
+
+  .courses {
+    background-color: #dFDDF4;
+    border-radius: 0 30px;
+  }
+
+  .code {
+    background-color: #d6e9e3;
+    border-radius: 30px 0;
+  }
+
+  .projects {
+    background-color: #dae6f3;
+    border-radius: 0 30px;
+  }
 
   .footer {
     display: flex;
@@ -92,12 +148,5 @@ body {
   align-items: center;
 }
 
-.footer-link {
-  text-decoration: none;
-  color: black;
-}
 
-.footer-link:hover {
-  color:blue
-}
 
