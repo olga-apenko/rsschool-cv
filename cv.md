@@ -1,6 +1,6 @@
 # Olga Apenko
 
-### Junior Fronted Developer
+## Junior Fronted Developer
 
 **Contact information**
 **Phone:** +380667727092
@@ -18,11 +18,8 @@ Responsible and eager to new challenges front-end developer looking for a full-t
 - Git, GitHub
 - VS Code
 - Figma
+- Webflow
 
-### Courses
-
-- Front-end. Full course for beginners. Prometheus & Ciklum
-- Front-end course for switchers. EPAM University
 
 ### Code example
 
@@ -38,3 +35,17 @@ Responsible and eager to new challenges front-end developer looking for a full-t
 ```
 
 **CodeProject example** https://github.com/olga-apenko/rsschool-cv/
+
+### Courses
+
+- Front-end. Full course for beginners. Prometheus & Ciklum
+- Front-end course for switchers. EPAM University
+
+### Languages
+
+- Ukrainian - native 
+- Russian - fluent
+- English - C1
+
+
+
