@@ -1,30 +1,35 @@
 # Olga Apenko
 
-### Junior Fronted Developer
+## Junior Fronted Developer
 
-**Contact information**
-**Phone:** +380667727092
-**Email:** opomykailo@gmail.com
-**Discord:** olga.apenko
+---
+
+### Contact information
+
+**Phone:** +380667727092<br>
+**Email:** opomykailo@gmail.com<br>
+**Discord:** olga.apenko<br>
 
 ### Objective
+
+---
 
 Responsible and eager to new challenges front-end developer looking for a full-time position in a friendly company.
 
 ### Skills and Proficiency
+
+---
 
 - HTML5, CSS3
 - JavaScript Basics
 - Git, GitHub
 - VS Code
 - Figma
-
-### Courses
-
-- Front-end. Full course for beginners. Prometheus & Ciklum
-- Front-end course for switchers. EPAM University
+- Webflow
 
 ### Code example
+
+---
 
 **Even or Odd from Codewars:** _Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers._
 
@@ -37,4 +42,19 @@ Responsible and eager to new challenges front-end developer looking for a full-t
 };
 ```
 
-**CodeProject example** https://github.com/olga-apenko/rsschool-cv/
+**CodeProject example:** _[CV](https://github.com/olga-apenko/rsschool-cv/)_
+
+### Courses
+
+---
+
+- Front-end. Full course for beginners. Prometheus & Ciklum
+- Front-end cross regional program. EPAM University
+
+### Languages
+
+---
+
+- Ukrainian - native
+- Russian - fluent
+- English - C1
